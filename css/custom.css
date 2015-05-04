@@ -11,9 +11,9 @@ footer {
 .glyphicon {
 	color: #cdae51;
 }
-.glyphicon-pushpin, 
-.glyphicon-heart {
-	color: #3F2B22;
+
+.active .plyphicon{
+	color: #cdae51;
 }
 
 .pull-right.img-responsive {
@@ -37,4 +37,9 @@ footer {
 }
 body{
 	padding-top: 70px;
+}
+
+.tab-pane{
+	border: 0 1px 1px 1px solid #ddd;
+	padding: 0.83em;
 }
